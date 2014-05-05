@@ -1,0 +1,2 @@
+django-htmlmin==0.6.3
+slimit==0.8.1
